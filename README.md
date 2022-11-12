@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @julianatanady
 - 👀 I’m new in programming and would like to study more. 
 - 🌱 I’m currently learning Ruby, Ruby on Rails
-- 💞️ My preferred language is English & Japanese
+- 💞️ My preferred languages are English & Japanese
 - 📫 Kindly reach me out at julianatanady@gmail.com
 
 <!---
